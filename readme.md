@@ -1,4 +1,4 @@
-## [Hash相关](./tree/master/hash)
+## [Hash相关](https://github.com/caojiantao/leetcode/tree/master/src/cn/caojiantao/study/leetcode/hash)
 
 - [q1_两数之和](https://leetcode-cn.com/problems/two-sum/)
 - [q387_字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
